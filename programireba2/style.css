@@ -1,0 +1,188 @@
+body{
+  background-color: white;
+  
+}
+header{
+  background-color: rgb(237, 234, 234);
+  width: 1500px;
+  height: 100px;
+  margin-top: -20px;
+  border-radius: 10px;
+  margin-left: -60px;
+  
+}
+
+img{
+  margin-top: 30px;
+}
+img:link{
+  color: black;
+  text-decoration: none;
+}
+img:visited{
+  color: black;
+  text-decoration: none;
+}
+img:hover{
+  text-decoration: underline;
+}
+img:active{
+  text-decoration: underline;
+}
+h4{
+  font-size: 20px;
+  margin-left: 30px;
+
+}
+div{
+  width: 200px;
+  height: 180px;
+  margin-left: 50px;
+
+}
+.img2{
+  width: 150px;
+ margin-top: -10px;
+ margin-left: 25px;
+  
+}
+p{
+  font-family: "Outfit", sans-serif;
+  margin-top: 50px;
+}
+.p3{
+  margin-top: -70px;
+}
+.div2{
+  width: 150px;
+  height: 40px;
+  background-color: orangered;
+  border-radius: 10px;
+  margin-left: 25px;
+  margin-top: 10px;
+  z-index: auto;
+}
+.p2{
+  margin-left: 40px;
+ padding:10px;
+ color: white;
+}
+a:link{
+  
+  text-decoration: none;
+}
+a:visited{
+  
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+a:active{
+  text-decoration: underline;
+}
+.p3{
+  margin-top: -60px;
+}
+.div3{
+  width: 200px;
+  height: 180px;
+  margin-left: 400px;
+  margin-top: -180px;
+}
+.img3{
+  width: 150px;
+ margin-top: -10px;
+ margin-left: 25px;
+}
+.p4{
+  font-family: "Outfit", sans-serif;
+  margin-top: 50px;
+}
+.p5{
+  margin-top: -70px;
+}
+.div4{
+  width: 150px;
+  height: 40px;
+  background-color: orangered;
+  border-radius: 10px;
+  margin-left: 25px;
+  margin-top: 10px;
+  z-index: auto;
+}
+.p6{
+  margin-left: 40px;
+ padding:10px;
+ color: white;
+
+}
+.div5{
+  width: 200px;
+  height: 180px;
+  margin-left: 800px;
+  margin-top: -180px;
+
+}
+.img4{
+  width: 150px;
+ margin-top: -10px;
+ margin-left: 25px;
+
+}
+.p7{
+  font-family: "Outfit", sans-serif;
+  margin-top: 50px;
+  font-size: 15px;
+
+}
+.div6{
+  width: 150px;
+  height: 40px;
+  background-color: orangered;
+  border-radius: 10px;
+  margin-left: 25px;
+margin-top: 50px;
+  z-index: auto;
+}
+.p9{
+  margin-left: 40px;
+  padding:10px;
+  color: white;
+}
+.p8{
+  margin-top: -70px;
+}
+.div7{
+  width: 200px;
+  height: 180px;
+  margin-left: 400px;
+  margin-top: 150px;
+}
+.img5{width: 150px;
+ margin-top:-10px;
+ margin-left:25px;
+}
+.p10{
+  font-family: "Outfit", sans-serif;
+  margin-top: 50px;
+}
+.p11{
+  margin-top: -60px;
+}
+
+.div8{
+  width: 150px;
+  height: 40px;
+  background-color: orangered;
+  border-radius: 10px;
+  margin-left: 25px;
+  margin-top: 10px;
+  z-index: auto;
+}
+.p12{
+  margin-left: 40px;
+  padding:10px;
+  color: white;
+}
+
